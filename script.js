@@ -34,5 +34,6 @@ function displayProfile(profile) {
         <p><strong>Medium:</strong> ${profile.mediumSolved}<strong>/</strong>${profile.totalMedium}</p>
         <p><strong>Hard:</strong> ${profile.hardSolved}<strong>/</strong>${profile.totalHard}</p>
         <p><strong>Ranking:</strong> ${profile.ranking}</p>
+        <p><strong>Submission:</strong> ${submissionCalendar}</p?
     `;
 }
